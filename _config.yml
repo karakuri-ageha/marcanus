@@ -1,8 +1,5 @@
----
----
-
-@import "jekyll-theme-slate";
-
-.inner {
-  max-width: 1100px;
-}
+title: Marcanus
+description: 傀儡の支配に没み、連鎖が玉座と成り、空虚が姿を顕す
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
