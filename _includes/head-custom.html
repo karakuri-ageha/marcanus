@@ -1,0 +1,52 @@
+<!-- start custom head snippets -->
+{% include head-custom-google-analytics.html %}
+
+<style>
+  /* ページ全体の横幅を広げる */
+  #main_content_wrap .inner,
+  #header_wrap .inner,
+  #footer_wrap .inner {
+    max-width: 1200px;
+  }
+
+  .mermaid {
+    overflow-x: auto;
+    background: #1a1a2e;
+    padding: 20px;
+    border-radius: 8px;
+  }
+</style>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
+  
+  document.querySelectorAll('pre code.language-mermaid').forEach(function(code) {
+    const pre = code.parentElement;
+    const div = document.createElement('div');
+    div.classList.add('mermaid');
+    div.textContent = code.textContent;
+    pre.parentNode.replaceChild(div, pre);
+  });
+
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'dark',
+    maxTextSize: 100000,
+    flowchart: {
+      useMaxWidth: false,
+      nodeSpacing: 30,
+      rankSpacing: 50,
+      curve: 'basis',
+      padding: 15
+    },
+    themeVariables: {
+      fontSize: '16px',
+      nodeBorder: '#4a9eff',
+      mainBkg: '#2d2d44',
+      nodeTextColor: '#ffffff',
+      edgeLabelBackground: '#1a1a2e',
+      lineColor: '#4a9eff'
+    }
+  });
+</script>
+<!-- end custom head snippets -->
