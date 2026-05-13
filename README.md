@@ -1,3 +1,30 @@
+> [!CAUTION]
+> **内容に関する注意**
+>
+> 本資料は、架空の世界における管理社会を批評的に描いた創作設定資料です。
+> 以下の内容が含まれます：
+>
+> - 組織的な暴力・殺害の描写
+> - 奴隷制度の詳細な設計
+> - 性的搾取・強制的な出産に関する記述
+> - 児童の強制的な回収・育成に関する記述
+> - 宗教を利用した精神的支配の構造
+> - 死体の処理工程に関する具体的な記述
+> - 歴史の捏造・民族浄化に関する記述
+>
+> これらは全て、物語世界の構造的暴力を「設計」として可視化するために記述されたものです。
+> 現実世界における同種の構造や行為を肯定・推奨するものではありません。
+>
+> **Content Warning**
+>
+> This is a fictional worldbuilding sourcebook that critically depicts a totalitarian theocratic society.
+> It contains descriptions of: systemic violence, slavery, sexual exploitation, forced reproduction, religious manipulation, corpse processing, historical fabrication, and ethnic cleansing.
+>
+> All content is designed to make structural violence visible as a "system design" within a fictional world.
+> None of this endorses or promotes real-world practices.
+
+---
+
 ## 文書情報
 
 | 項目 | 内容 |
