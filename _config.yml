@@ -1,0 +1,8 @@
+---
+---
+
+@import "jekyll-theme-slate";
+
+.inner {
+  max-width: 1100px;
+}
