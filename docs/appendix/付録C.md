@@ -112,8 +112,8 @@
 
 |出典|情報源|
 |---|---|
-|[Heraldica.org](http://heraldica.org/)|Nobility and Titles in France（[heraldica.org/topics/france/noblesse.htm）](http://heraldica.org/topics/france/noblesse.htm%EF%BC%89)|
-|Lumen Learning|The Ancien Regime（[courses.lumenlearning.com](http://courses.lumenlearning.com/)）|
+|[Heraldica.org](http://heraldica.org/)|Nobility and Titles in France（[heraldica.org/topics/france/noblesse.htm](https://heraldica.org/topics/france/noblesse.htm)）|
+|Lumen Learning|The Ancien Regime（[courses.lumenlearning.com/suny-hccc-worldhistory**2**/chapter/the-ancien-regime/](https://courses.lumenlearning.com/suny-hccc-worldhistory2/chapter/the-ancien-regime/)）|
 
 ---
 
@@ -165,8 +165,8 @@
 
 |出典|情報源|
 |---|---|
-|University of Oregon|The Institutional Structure of the Holy Roman Empire（[pages.uoregon.edu](http://pages.uoregon.edu/)）|
-|Oxford Academic|Imperial Court and the Localities（[academic.oup.com](http://academic.oup.com/)）|
+|University of Oregon / David Luebke|The Institutional Structure of the Holy Roman Empire（[pages.uoregon.edu/dluebke/Reformations441/441ImperialPrimer.htm](https://pages.uoregon.edu/dluebke/Reformations441/441ImperialPrimer.htm)）|
+|Oxford Academic|Richard C. Schlag, “The Imperial Court and the Localities during the Reign of Holy Roman Emperor Friedrich III,” _German History_, Vol. 42, Issue 1, March 2024, pp. 1–19（[academic.oup.com/gh/article/42/1/1/7485842](https://academic.oup.com/gh/article/42/1/1/7485842)）|
 
 ---
 
@@ -285,9 +285,9 @@
 
 |出典|情報源|
 |---|---|
-|[ChinaKnowledge.de](http://chinaknowledge.de/)|jiupin 九品, the Nine-Rank System of State Offices（[chinaknowledge.de](http://chinaknowledge.de/)）|
-|The World of Chinese|Paths to Power: A Guide to China’s Civil Servant Selection Systems（[theworldofchinese.com](http://theworldofchinese.com/)）|
-|Athens Journal of History|The Chinese Imperial Examination System’s Historical Significance（[athensjournals.gr](http://athensjournals.gr/)）|
+|[ChinaKnowledge.de](http://chinaknowledge.de/)|jiupin 九品, the Nine-Rank System of State Offices（[chinaknowledge.de/History/Terms/jiupin.html](http://www.chinaknowledge.de/History/Terms/jiupin.html)）|
+|The World of Chinese|Paths to Power: A Guide to China’s Civil Servant Selection Systems（[theworldofchinese.com/2024/08/chinas-civil-servant-selection-systems-guide/](https://www.theworldofchinese.com/2024/08/chinas-civil-servant-selection-systems-guide/)）|
+|Athens Journal of History|Ernesto Carlos Pujazon Patron & Jose Domingo Elias Arcelles, “The Chinese Imperial Examination System’s Historical Significance: Why was it administered?” _Athens Journal of History_, Vol. 12, Issue 1, January 2026, pp. 93–（[athensjournals.gr/history/2026-12-1-4-Patron.pdf](https://www.athensjournals.gr/history/2026-12-1-4-Patron.pdf)）|
 
 ---
 
@@ -406,11 +406,11 @@
 |出典|情報源|
 |---|---|
 |Rawski, Evelyn S.|_The Last Emperors: A Social History of Qing Imperial Institutions_, University of California Press, 1998, Chapter 4 “Imperial Women”|
-|McMahon, Keith|“The Institution of Polygamy in the Chinese Imperial Palace,” _The Journal of Asian Studies_, Vol. 72, No. 4, 2013, pp. 917-936|
+|McMahon, Keith|“The Institution of Polygamy in the Chinese Imperial Palace,” _The Journal of Asian Studies_, Vol. 72, No. 4, 2013, pp. 917–936|
 |McMahon, Keith|_Women Shall Not Rule: Imperial Wives and Concubines in China from Han to Liao_, Rowman & Littlefield, 2013|
 |Wu Meifeng（吴美凤）|「明清后妃制度略考」（A Brief Study on Ming and Qing Systems of Imperial Consorts）, _故宫博物院院刊（Palace Museum Journal）_, Vol. 13|
-|Wang, Shuo|“The Selection of Women for the Qing Imperial Harem,” _Journal of the Royal Asiatic Society_, 2013|
-|The Collector|“Qing China: What Was Life in the Imperial Harems Like?” Ching Yee Lim, BA (Hons) History（[thecollector.com](http://thecollector.com/)）|
+|Wang, Shuo|“The Selection of Women for the Qing Imperial Harem,” _**The Chinese Historical Review**_, Vol. 11, No. 2, Fall 2004, pp. 212–222（[tandfonline.com/doi/abs/10.1080/1547402X.2004.11827204](https://www.tandfonline.com/doi/abs/10.1080/1547402X.2004.11827204)）|
+|The Collector|Ching Yee Lim, “Qing China: What Was Life in the Imperial Harems Like?”, July 2, 2023（[thecollector.com/qing-china-imperial-harems/](https://www.thecollector.com/qing-china-imperial-harems/)）|
 
 ---
 
